@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salak301\\source\\repos\\cafeteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{669125C4-A63F-4E70-AB61-F2489CA2B2AD}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669125C4-A63F-4E70-AB61-F2489CA2B2AD}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669125C4-A63F-4E70-AB61-F2489CA2B2AD}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\nucleo\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669125C4-A63F-4E70-AB61-F2489CA2B2AD}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669125C4-A63F-4E70-AB61-F2489CA2B2AD}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\migrations\\20241001140418_migration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669125C4-A63F-4E70-AB61-F2489CA2B2AD}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\migrations\\20241001140418_migration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669125C4-A63F-4E70-AB61-F2489CA2B2AD}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\migrations\\20241001135138_migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669125C4-A63F-4E70-AB61-F2489CA2B2AD}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\migrations\\20241001135138_migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669125C4-A63F-4E70-AB61-F2489CA2B2AD}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\nucleo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669125C4-A63F-4E70-AB61-F2489CA2B2AD}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wBsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:07:44.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241001140418_migration3.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\Migrations\\20241001140418_migration3.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Migrations\\20241001140418_migration3.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\Migrations\\20241001140418_migration3.cs",
+              "RelativeToolTip": "asp_servicios\\Migrations\\20241001140418_migration3.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:04:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241001135138_migration2.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\Migrations\\20241001135138_migration2.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Migrations\\20241001135138_migration2.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\Migrations\\20241001135138_migration2.cs",
+              "RelativeToolTip": "asp_servicios\\Migrations\\20241001135138_migration2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:51:39.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\Nucleo\\Clientes.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Clientes.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\Nucleo\\Clientes.cs",
+              "RelativeToolTip": "asp_servicios\\Nucleo\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:38:38.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\Nucleo\\Conexion.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Conexion.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\cafeteria\\asp_servicios\\Nucleo\\Conexion.cs",
+              "RelativeToolTip": "asp_servicios\\Nucleo\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:37:14.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
